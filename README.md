@@ -1,0 +1,4 @@
+- 👋 Hello, I'm Nick (Nikolai)
+- 👀 I am interested in programming, in particular C++, Python
+- 🌱 I’m currently a 2nd year college student in Moscow
+- ⚡ Interesting fact: -
